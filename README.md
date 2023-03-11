@@ -1,6 +1,6 @@
 # Book_Api
 
-# This simple Api app in golang
+# This simple Api app in golang using Gin Framework
 
 1. POST request try this command
 
